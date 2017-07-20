@@ -51,3 +51,7 @@ copy to ./public folder
 
 [Amelia BootStrap Theme](https://github.com/simonholmes/amelia)
 
+## Heroku Install
+
+[Heroku CLI Install](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+
