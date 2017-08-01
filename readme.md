@@ -36,10 +36,13 @@ MongoDB
 copy to ./public/angular/
 
 
-## nodemon install (monitoring dev only)
+## initialise npm app
+
+'npm init'
+
+## nodemon install (monitoring changes - dev only)
 
 `npm install -g nodemon`
-
 
 ## jQuery download
 
